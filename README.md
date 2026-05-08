@@ -1,94 +1,76 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=✨+Joyce+Guedes+✨;Front-end+Developer;Back-end+Student;CSS+Lover+💜" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=35&pause=1000&color=7FFFD4&center=true&vCenter=true&width=700&lines=Joyce+Guedes+♡;Front-end+Developer;Back-end+Student;Apaixonada+por+CSS+✨" />
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/Status-Estudando_Back--end-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7FFFD4,100:00BFFF&text=Welcome&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </div>
 
 <br>
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=220&color=7B2CBF&text=Bem-vindo(a)%20ao%20meu%20perfil&fontColor=00F5FF&fontSize=38&animation=fadeIn"/>
+## ♡ Sobre mim
 
-</div>
-
-<br>
-
-<div align="center">
-
-## 👩‍💻 Sobre mim
-
-✨ Olá, meu nome é **Joyce Guedes**  
-📚 Estudo tecnologia desde o primeiro ano do Ensino Médio  
-🎓 Atualmente estou cursando o terceiro ano  
-💻 Tenho conhecimentos em **Front-end, JavaScript, Back-end e Banco de Dados**  
-🧠 Atualmente aprofundando meus estudos em **Back-end** e **Modelagem de Dados**  
-🎨 Amo criar interfaces bonitas usando **CSS** e explorar criatividade visual  
+```css
+const joyce = {
+  idade: "Estudante",
+  foco: ["Back-end", "Modelagem de Dados"],
+  linguagens: ["JavaScript", "TypeScript"],
+  paixao: "Criar interfaces bonitas com CSS 💙"
+}
+```
 
 </div>
 
 ---
 
-# 🚀 Tecnologias
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,npm,vscode,sqlite&theme=dark" />
+## 💎 Tecnologias
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,sqlite,vscode&theme=light" />
 
 </div>
 
 ---
 
-# 📊 GitHub Stats
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=7B2CBF"/>
+## 🌊 GitHub Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=7FFFD4&text_color=ffffff&icon_color=00BFFF"/>
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=transparent&hide_border=true&title_color=7FFFD4&text_color=ffffff"/>
 
 </div>
 
 ---
 
-# 🌌 Contribuições
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&bg_color=0d1117&color=00F5FF&line=7B2CBF&point=00F5FF&area=true&hide_border=true"/>
+## 🫧 Contribuições
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&bg_color=0d1117&color=7FFFD4&line=00BFFF&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🐍 Snake Animation
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-# 🌐 Redes
-
-<div align="center">
+## 🌐 Redes
 
 <a href="https://github.com/SEUUSUARIO">
-<img src="https://img.shields.io/badge/GitHub-7B2CBF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-7FFFD4?style=for-the-badge&logo=github&logoColor=000"/>
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-00F5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+<img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -97,6 +79,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2CBF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7FFFD4,100:00BFFF&section=footer"/>
 
 </div>
