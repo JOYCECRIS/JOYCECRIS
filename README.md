@@ -7,7 +7,6 @@
 ---
 
 <div align="center">
-<img src="https://cdn.pixabay.com/animation/2024/02/02/16/02/16-02-45-731_512.gif"
 <img src="https://cdn.pixabay.com/animation/2025/06/11/23/44/23-44-28-644_512.gif" width="320px" style="border-radius:20px;" />
 
 </div>
