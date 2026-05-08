@@ -1,33 +1,44 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=35&pause=1000&color=7FFFD4&center=true&vCenter=true&width=700&lines=Joyce+Guedes+♡;Front-end+Developer;Back-end+Student;Apaixonada+por+CSS+✨" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=34&pause=1000&color=7FFFD4&center=true&vCenter=true&width=650&lines=Joyce+Guedes+♡;Front-end+Developer;Back-end+Student;CSS+Lover+✨" />
 
 </div>
 
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:7FFFD4,100:00BFFF&text=Welcome&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
+<img src="https://i.pinimg.com/originals/46/19/f3/4619f3d6e595606566c957ca8167a787.gif" width="320px" style="border-radius:20px;" />
+
 </div>
 
-<br>
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7FFFD4,100:00BFFF&height=2"/>
+
+</div>
 
 <div align="center">
 
 ## ♡ Sobre mim
 
-```css
-const joyce = {
-  idade: "Estudante",
-  foco: ["Back-end", "Modelagem de Dados"],
-  linguagens: ["JavaScript", "TypeScript"],
-  paixao: "Criar interfaces bonitas com CSS 💙"
-}
-```
+✨ Meu nome é **Joyce Guedes**  
+📚 Estudando tecnologia e desenvolvimento web  
+💻 Conhecimentos em **Front-end**, **JavaScript**, **Back-end** e **Banco de Dados**  
+🫧 Atualmente focada em **Back-end** e **Modelagem de Dados**  
+🎨 Apaixonada por criar interfaces delicadas com **CSS**  
 
 </div>
 
----
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7FFFD4,100:00BFFF&height=2"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -37,48 +48,32 @@ const joyce = {
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-## 🌊 GitHub Stats
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=7FFFD4&text_color=ffffff&icon_color=00BFFF"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=transparent&hide_border=true&title_color=7FFFD4&text_color=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7FFFD4,100:00BFFF&height=2"/>
 
 </div>
-
----
-
-<div align="center">
-
-## 🫧 Contribuições
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&bg_color=0d1117&color=7FFFD4&line=00BFFF&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
 
 <div align="center">
 
 ## 🌐 Redes
 
 <a href="https://github.com/SEUUSUARIO">
-<img src="https://img.shields.io/badge/GitHub-7FFFD4?style=for-the-badge&logo=github&logoColor=000"/>
+<img src="https://img.shields.io/badge/GitHub-7FFFD4?style=for-the-badge&logo=github&logoColor=000&labelColor=0d1117"/>
 </a>
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7FFFD4,100:00BFFF&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:7FFFD4,100:00BFFF&section=footer"/>
 
 </div>
