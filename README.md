@@ -23,7 +23,8 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="<img width="358" height="300" alt="image" src="https://github.com/user-attachments/assets/7d532078-d29d-40fb-b08f-cf35c8835eac" />
+"  />
 </div>
 
 ###
