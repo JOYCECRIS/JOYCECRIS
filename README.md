@@ -7,8 +7,8 @@
 ---
 
 <div align="center">
-
-<img src="https://i.pinimg.com/originals/46/19/f3/4619f3d6e595606566c957ca8167a787.gif" width="320px" style="border-radius:20px;" />
+<img src="https://cdn.pixabay.com/animation/2024/02/02/16/02/16-02-45-731_512.gif"
+<img src="https://cdn.pixabay.com/animation/2025/06/11/23/44/23-44-28-644_512.gif" width="320px" style="border-radius:20px;" />
 
 </div>
 
