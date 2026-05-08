@@ -23,11 +23,11 @@
 ###
 
 <div align="center">
-  <img height="200" src="<img width="358" height="300" alt="image" src="https://github.com/user-attachments/assets/7d532078-d29d-40fb-b08f-cf35c8835eac" />
+  <img height="200" src="https://i.pinimg.com/originals/53/3f/85/533f8591eaf450f5e0c347b2cf877954.gif" />
 "  />
 </div>
 
-###
+##
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
